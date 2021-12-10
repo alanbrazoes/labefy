@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components"
 
-import AddPlaylist from "./componentes/addPlaylist";
-import ListaPlaylist from "./componentes/listaPlaylist";
+import AddPlaylist from "./pages/AddPlaylist";
+import ListaPlaylist from "./pages/ListaPlaylist";
 
 const Geral = styled.div`
   width: 100vw;
