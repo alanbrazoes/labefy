@@ -1,4 +1,4 @@
-* LABEFY *
+<h1>Labefy</h1>
 
 Hoje a música é algo bastante presente em nosso cotidiano. Até porque o ato de escutar uma boa canção nos traz excelentes retornos - boas lembranças, sensações incríveis, melhora o humor e melhora nossa capacidade imaginar.
 
